@@ -36,7 +36,7 @@ const HowItWorks = () => {
         animate="visible"
         variants={containerVariants}
       >
-      Here’s a glimpse of how things roll out at QA Vision- 
+      Here’s a glimpse of how things roll out at QA Vision - 
       </motion.p>
 
       <motion.ul
