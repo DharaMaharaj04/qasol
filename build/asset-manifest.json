@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.41802a52.css",
+    "main.js": "/static/js/main.caa3613a.js",
+    "static/media/headerImage.png": "/static/media/headerImage.c48f1e8815add91538a2.png",
+    "static/media/mobtest1.png": "/static/media/mobtest1.7eb250faf7eee11af4ad.png",
+    "static/media/MidComponentPhone.png": "/static/media/MidComponentPhone.63cca7189b55534e4b74.png",
+    "static/media/pexels-1.jpg": "/static/media/pexels-1.2fa80d83cac1e66c91ec.jpg",
+    "static/media/bedRoom.png": "/static/media/bedRoom.13ac171817536eea7e23.png",
+    "static/media/midPhone2.png": "/static/media/midPhone2.270854f8a4e2f7d7fc46.png",
+    "static/media/chairPurple.png": "/static/media/chairPurple.7723c9f632223d91e5ec.png",
+    "static/media/flow-light.png": "/static/media/flow-light.cab5bbbb5d16bcd9f19f.png",
+    "static/media/gray-chair.png": "/static/media/gray-chair.25072c6d69bb0c6bbd01.png",
+    "static/media/qa.png": "/static/media/qa.078c760b5921965d92ca.png",
+    "static/media/macbook-3.jpeg": "/static/media/macbook-3.9ab319e42c4bc5bfffad.jpeg",
+    "static/media/pexels-2.jpeg": "/static/media/pexels-2.5c4276d05d9e4dc7dcb4.jpeg",
+    "static/media/triple.png": "/static/media/triple.06e663a6ae11f231f8b5.png",
+    "static/media/roseChair.png": "/static/media/roseChair.2bd484603674d3c1fcdd.png",
+    "static/media/double.png": "/static/media/double.8e71848276a484d2ed67.png",
+    "static/media/single.png": "/static/media/single.713396cdd4ebcab80545.png",
+    "static/media/blueSofa.png": "/static/media/blueSofa.2495d747987da66a274c.png",
+    "static/media/google-play.svg": "/static/media/google-play.3a82f04097175e6c06590184726273a5.svg",
+    "static/media/apple-store.svg": "/static/media/apple-store.43f8ca7d4a3d99453b93d51338840835.svg",
+    "static/media/instagram.svg": "/static/media/instagram.c08c2d1b4e9e791d932f8d33f8a178af.svg",
+    "index.html": "/index.html",
+    "static/media/phone.svg": "/static/media/phone.7d9059e3f4271a4cf6992e09918f50e2.svg",
+    "static/media/email.svg": "/static/media/email.879b13a83286906427a59d6587520f05.svg",
+    "static/media/star.svg": "/static/media/star.9969c866fa25ce0fa12704fdec91bb2f.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.dcfab6728b67aa527e8b120f4f647348.svg",
+    "static/media/starWhite.svg": "/static/media/starWhite.49d28a75838379053f07e8a4f9cd1a32.svg",
+    "static/media/twitter-x.svg": "/static/media/twitter-x.564b77c6c25129388e845402c15b9d9a.svg",
+    "main.41802a52.css.map": "/static/css/main.41802a52.css.map",
+    "main.caa3613a.js.map": "/static/js/main.caa3613a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41802a52.css",
+    "static/js/main.caa3613a.js"
+  ]
+}
