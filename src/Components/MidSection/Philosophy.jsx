@@ -54,7 +54,7 @@ const Philosophy = () => {
               <img className='w-20 mx-auto mt-[-3rem] bg-white' src={Triple} alt="/" />
               <h2 className='text-2xl font-bold text-center py-8'>Proactive Communication:</h2>
               <div className='text-center font-medium'>
-                  <p className='py-2 border-b mx-8 mt-8'>We keep you in the loop with regular updates and clear reports, so you’re never in the dark</p>
+                  <p className='py-2 border-b mx-8 mt-8'>We keep you in the loop with regular updates and clear reports, so you’re never in the dark.</p>
               </div>
           </div>
       </motion.div>
