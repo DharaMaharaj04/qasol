@@ -1,0 +1,21 @@
+.cursorFollowerImage {
+  position: absolute;
+  width: 80px; /* Adjust size for responsiveness */
+  height: auto; /* Maintain aspect ratio */
+  pointer-events: none;
+  z-index: 9999;
+  transition: transform 0.3s ease; /* Smooth transition */
+  overflow-x: hidden !important;
+}
+
+@media screen and (min-width: 768px) {
+  .cursorFollowerImage {
+    width: 100px; /* Larger size for bigger screens */
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .cursorFollowerImage {
+    width: 170px; /* Even larger for desktop screens */
+  }
+}
