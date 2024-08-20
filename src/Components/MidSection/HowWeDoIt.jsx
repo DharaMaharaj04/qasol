@@ -90,7 +90,7 @@ const HowItWorks = () => {
 
         {/* Step 3 */}
         <motion.li
-          className="md:shrink md:basis-0 flex-1 group flex gap-x-2 md:block sm:py-0 md:py-15  px-8"
+          className="md:shrink md:basis-0 flex-1 group flex gap-x-2 md:block sm:py-0 md:py-14 px-8"
           variants={stepVariants}
         >
           <div className="min-w-7 min-h-7 flex flex-col items-center md:w-full md:inline-flex md:flex-wrap md:flex-row text-xs align-middle">

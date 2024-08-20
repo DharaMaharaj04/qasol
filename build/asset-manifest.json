@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.41802a52.css",
-    "main.js": "/static/js/main.caa3613a.js",
+    "main.css": "/static/css/main.7ae3fd6b.css",
+    "main.js": "/static/js/main.01ad216a.js",
     "static/media/headerImage.png": "/static/media/headerImage.c48f1e8815add91538a2.png",
     "static/media/mobtest1.png": "/static/media/mobtest1.7eb250faf7eee11af4ad.png",
     "static/media/MidComponentPhone.png": "/static/media/MidComponentPhone.63cca7189b55534e4b74.png",
@@ -29,11 +29,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.dcfab6728b67aa527e8b120f4f647348.svg",
     "static/media/starWhite.svg": "/static/media/starWhite.49d28a75838379053f07e8a4f9cd1a32.svg",
     "static/media/twitter-x.svg": "/static/media/twitter-x.564b77c6c25129388e845402c15b9d9a.svg",
-    "main.41802a52.css.map": "/static/css/main.41802a52.css.map",
-    "main.caa3613a.js.map": "/static/js/main.caa3613a.js.map"
+    "main.7ae3fd6b.css.map": "/static/css/main.7ae3fd6b.css.map",
+    "main.01ad216a.js.map": "/static/js/main.01ad216a.js.map"
   },
   "entrypoints": [
-    "static/css/main.41802a52.css",
-    "static/js/main.caa3613a.js"
+    "static/css/main.7ae3fd6b.css",
+    "static/js/main.01ad216a.js"
   ]
 }
